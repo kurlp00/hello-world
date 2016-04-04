@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello humans.
+
+Thiz iz my game.
